@@ -1,0 +1,18 @@
+# Data manipulation and analysis
+pandas==1.5.3
+numpy==1.24.2
+
+# Data visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Machine Learning
+scikit-learn==1.2.2
+
+# Neural Networks and Deep Learning
+tensorflow==2.11.0
+keras==2.11.0
+torch==1.13.1
+
+# Jupyter Notebook
+jupyter==1.0.0
