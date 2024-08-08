@@ -1,4 +1,4 @@
-# ML-Basics
+# ML- Shaam se Chaand tak
 
 Welcome to the ML-Basics repository! This project is designed for personal learning and exploration of fundamental machine learning concepts. It covers a variety of topics, from basic data preprocessing to implementing different machine learning algorithms using popular libraries like Scikit-learn, TensorFlow, and PyTorch.
 
@@ -15,10 +15,7 @@ Welcome to the ML-Basics repository! This project is designed for personal learn
   - [Unsupervised Learning](#unsupervised-learning)
   - [Neural Networks](#neural-networks)
   - [Model Evaluation](#model-evaluation)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -38,7 +35,7 @@ To get the most out of this repository, you should have a basic understanding of
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/ML-Basics.git
+    git clone https://github.com/PhenomSG/ML-Basics.git
     ```
 2. Navigate to the project directory:
     ```sh
@@ -62,29 +59,6 @@ To get the most out of this repository, you should have a basic understanding of
     pip install -r requirements.txt
     ```
 
-## Directory Structure
-
-```
-ML-Basics/
-│
-├── data/
-│   └── datasets/       # Sample datasets for practice
-│
-├── notebooks/
-│   ├── 01_data_preprocessing.ipynb
-│   ├── 02_supervised_learning.ipynb
-│   ├── 03_unsupervised_learning.ipynb
-│   ├── 04_neural_networks.ipynb
-│   └── 05_model_evaluation.ipynb
-│
-├── scripts/
-│   └── utils.py        # Utility functions
-│
-├── .gitignore
-├── LICENSE
-├── README.md
-└── requirements.txt
-```
 
 ## Topics Covered
 
@@ -120,20 +94,6 @@ ML-Basics/
 - Confusion matrix
 - ROC curves and AUC
 - Precision, recall, and F1 score
-
-## Usage
-
-To run the Jupyter Notebooks:
-
-1. Start Jupyter Notebook:
-    ```sh
-    jupyter notebook
-    ```
-2. Open the desired notebook from the `notebooks` directory.
-
-## Contributing
-
-Contributions are welcome! If you have any improvements or additional content you'd like to add, please fork the repository and submit a pull request.
 
 ## License
 
