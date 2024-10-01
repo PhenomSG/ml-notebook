@@ -47,6 +47,6 @@
     - [Programming Assignment](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week3/C1W3A1)
       - [Logistic Regression](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week3/C1W3A1/C1_W3_Logistic_Regression.ipynb)
 
-#### [Certificate Of Completion](https://coursera.org/share/195768f3c1a83e42298d3f61dae99d01)
+#### [Certificate Of Completion](www.google.com)
 
 <br/>
