@@ -1,0 +1,7 @@
+Weather,Temperature,Humidity,Wind,Play?
+Sunny,Warm,High,Strong,Yes
+Rainy,Cold,High,Weak,No
+Sunny,Warm,Normal,Weak,Yes
+Sunny,Hot,High,Strong,Yes
+Rainy,Cold,Normal,Weak,No
+Cloudy,Mild,Normal,Weak,No
